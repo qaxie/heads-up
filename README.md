@@ -58,6 +58,8 @@ HeadsUp is being built using a **spec-driven AI coding** approach. Rather than l
 
 The specs cover user stories, acceptance criteria, screen states, and edge cases. Code is only written once a spec is agreed on.
 
+See [TODO.md](TODO.md) for planned work and known issues.
+
 ---
 
 ## License
