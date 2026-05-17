@@ -50,6 +50,16 @@ _Coming soon_
 
 ---
 
+## Development
+
+> **This project is a work in progress.**
+
+HeadsUp is being built using a **spec-driven AI coding** approach. Rather than letting AI generate the app freely, the behaviour of each screen and feature is defined upfront in specification documents (see `specs/`). The AI follows these specs when writing code — keeping the implementation grounded and intentional instead of just guessing what the app should do.
+
+The specs cover user stories, acceptance criteria, screen states, and edge cases. Code is only written once a spec is agreed on.
+
+---
+
 ## License
 
 This project is licensed under the [GNU General Public License v3.0](LICENSE).
